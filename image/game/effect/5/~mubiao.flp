@@ -1,0 +1,4 @@
+﻿<flash_project name="~mubiao" version="1">
+	<project_file path="./~mubiao.fla" filetype="fla" profile="" def_file="true"/>
+	<project_file path="./asset/game/4/mubiao.as" filetype="as"/>
+</flash_project>

@@ -1,0 +1,223 @@
+<list>
+  <emitter name="炮单飞行" id="1" interval="0.1" beginAngle="0" endAngle="0" life="0">
+    <particle motionVSize="32" rotation="0" alphaOrient="0" colorOrient="0" lifeOrient="0.5" lifeSize="0" spinOrient="10" spinSize="-1" keepOldFirst="false" sizeOrient="1" displayCreator="12" vOrient="81" endTime="1000" name="yan " weightOrient="0" blendMode="add" weightSize="0" keepColor="true" vSize="68" beginTime="0" motionVOrient="58" countSize="0" sizeSize="0.1" lifeEasing="[object AbstractLifeEasing]" countOrient="1">
+      <easing name="vLine" value=""/>
+      <easing name="rvLine" value=""/>
+      <easing name="spLine" value=""/>
+      <easing name="sizeLine" value="0:1,1:0.4,"/>
+      <easing name="weightLine" value=""/>
+      <easing name="alphaLine" value="0:1,0.8:0,0.5:0,0:0,"/>
+    </particle>
+  </emitter>
+  <emitter name="必杀飞行烟" id="2" interval="0.04" beginAngle="0" endAngle="0" life="0">
+    <particle motionVSize="10" rotation="0" alphaOrient="1" colorOrient="0" lifeOrient="0.4" lifeSize="0" spinOrient="0" spinSize="0" keepOldFirst="false" sizeOrient="1" displayCreator="12" vOrient="120" endTime="1000" name="烟" weightOrient="0" blendMode="add" weightSize="-12" keepColor="true" vSize="24" beginTime="0" motionVOrient="110" countSize="2" sizeSize="0.3" lifeEasing="[object AbstractLifeEasing]" countOrient="0">
+      <easing name="vLine" value=""/>
+      <easing name="rvLine" value=""/>
+      <easing name="spLine" value=""/>
+      <easing name="sizeLine" value="0:1,1:0.6,"/>
+      <easing name="weightLine" value=""/>
+      <easing name="alphaLine" value="0:1,0.5:0.7,1:0,"/>
+    </particle>
+    <particle motionVSize="0" rotation="6.28" alphaOrient="0" colorOrient="0" lifeOrient="0.5" lifeSize="0" spinOrient="0" spinSize="0" keepOldFirst="false" sizeOrient="0.7" displayCreator="24" vOrient="0" endTime="1000" name="飞行光" weightOrient="0" blendMode="add" weightSize="0" keepColor="false" vSize="94" beginTime="0" motionVOrient="43" countSize="0" sizeSize="0.2" lifeEasing="[object AbstractLifeEasing]" countOrient="1">
+      <easing name="vLine" value=""/>
+      <easing name="rvLine" value=""/>
+      <easing name="spLine" value=""/>
+      <easing name="sizeLine" value=""/>
+      <easing name="weightLine" value=""/>
+      <easing name="alphaLine" value="0:1,1:0,"/>
+      <easing name="colorLine" value="0:16776982,0.2:16745472,1:16739842,"/>
+    </particle>
+  </emitter>
+  <emitter name="单发飞镖" id="3" interval="0.04" beginAngle="0" endAngle="6.28" life="0">
+    <particle motionVSize="0" rotation="0" alphaOrient="1" colorOrient="0" lifeOrient="0.5" lifeSize="0" spinOrient="2" spinSize="0" keepOldFirst="false" sizeOrient="1" displayCreator="2" vOrient="0" endTime="1000" name="单飞" weightOrient="0" blendMode="add" weightSize="0" keepColor="true" vSize="0" beginTime="0" motionVOrient="0" countSize="0" sizeSize="0" lifeEasing="[object AbstractLifeEasing]" countOrient="1">
+      <easing name="vLine" value=""/>
+      <easing name="rvLine" value=""/>
+      <easing name="spLine" value=""/>
+      <easing name="sizeLine" value=""/>
+      <easing name="weightLine" value=""/>
+      <easing name="alphaLine" value="0:0.7,1:0,"/>
+    </particle>
+  </emitter>
+  <emitter name="必杀飞镖" id="4" interval="0.04" beginAngle="0" endAngle="6.28" life="0">
+    <particle motionVSize="0" rotation="0" alphaOrient="1" colorOrient="0" lifeOrient="0.5" lifeSize="0" spinOrient="17" spinSize="0" keepOldFirst="false" sizeOrient="1" displayCreator="0" vOrient="0" endTime="1000" name="必杀飞镖" weightOrient="0" blendMode="add" weightSize="0" keepColor="true" vSize="0" beginTime="0" motionVOrient="0" countSize="0" sizeSize="0" lifeEasing="[object AbstractLifeEasing]" countOrient="1">
+      <easing name="vLine" value=""/>
+      <easing name="rvLine" value=""/>
+      <easing name="spLine" value=""/>
+      <easing name="sizeLine" value=""/>
+      <easing name="weightLine" value=""/>
+      <easing name="alphaLine" value="0:0.8,1:0,"/>
+    </particle>
+  </emitter>
+  <emitter name="冰封" id="0" interval="0.04" beginAngle="0" endAngle="6.28" life="0">
+    <particle motionVSize="0" rotation="0" alphaOrient="1" colorOrient="0" lifeOrient="0.6" lifeSize="0" spinOrient="0" spinSize="0" keepOldFirst="false" sizeOrient="1" displayCreator="25" vOrient="0" endTime="1000" name="冰弹" weightOrient="0" blendMode="add" weightSize="0" keepColor="true" vSize="0" beginTime="0" motionVOrient="0" countSize="0" sizeSize="0" lifeEasing="[object AbstractLifeEasing]" countOrient="1">
+      <easing name="vLine" value=""/>
+      <easing name="rvLine" value=""/>
+      <easing name="spLine" value=""/>
+      <easing name="sizeLine" value="0:1,1:0.5,"/>
+      <easing name="weightLine" value=""/>
+      <easing name="alphaLine" value="0:1,1:0,"/>
+    </particle>
+  </emitter>
+  <emitter name="传送粒子飞行" id="5" interval="0.04" beginAngle="0" endAngle="6.28" life="0">
+    <particle motionVSize="0" rotation="0" alphaOrient="1" colorOrient="0" lifeOrient="0.5" lifeSize="0" spinOrient="0" spinSize="0" keepOldFirst="false" sizeOrient="1" displayCreator="26" vOrient="0" endTime="1000" name="传送粒子" weightOrient="0" blendMode="add" weightSize="0" keepColor="true" vSize="0" beginTime="0" motionVOrient="0" countSize="0" sizeSize="0" lifeEasing="[object AbstractLifeEasing]" countOrient="1">
+      <easing name="vLine" value=""/>
+      <easing name="rvLine" value=""/>
+      <easing name="spLine" value=""/>
+      <easing name="sizeLine" value=""/>
+      <easing name="weightLine" value=""/>
+      <easing name="alphaLine" value="0:0.8,1:0,"/>
+    </particle>
+  </emitter>
+  <emitter name="电击棒飞行" id="6" interval="0.04" beginAngle="0" endAngle="6.28" life="0">
+    <particle motionVSize="0" rotation="0" alphaOrient="1" colorOrient="3394815" lifeOrient="0.5" lifeSize="0" spinOrient="0" spinSize="0" keepOldFirst="false" sizeOrient="1" displayCreator="27" vOrient="0" endTime="1000" name="店单" weightOrient="0" blendMode="add" weightSize="0" keepColor="false" vSize="0" beginTime="0" motionVOrient="0" countSize="0" sizeSize="0" lifeEasing="[object AbstractLifeEasing]" countOrient="1">
+      <easing name="vLine" value=""/>
+      <easing name="rvLine" value=""/>
+      <easing name="spLine" value=""/>
+      <easing name="sizeLine" value="0:1,1:0.4,"/>
+      <easing name="weightLine" value=""/>
+      <easing name="alphaLine" value="0:0.7,1:0,"/>
+    </particle>
+  </emitter>
+  <emitter name="炸药包粒子" id="7" interval="0.04" beginAngle="0" endAngle="6.28" life="0">
+    <particle motionVSize="17" rotation="0" alphaOrient="1" colorOrient="16751001" lifeOrient="0.5" lifeSize="0" spinOrient="0" spinSize="0" keepOldFirst="false" sizeOrient="1" displayCreator="28" vOrient="35" endTime="1000" name="花" weightOrient="5" blendMode="add" weightSize="0" keepColor="false" vSize="28" beginTime="0" motionVOrient="10" countSize="0" sizeSize="0" lifeEasing="[object AbstractLifeEasing]" countOrient="1">
+      <easing name="vLine" value=""/>
+      <easing name="rvLine" value=""/>
+      <easing name="spLine" value=""/>
+      <easing name="sizeLine" value="0:1,1:0.6,"/>
+      <easing name="weightLine" value=""/>
+      <easing name="alphaLine" value="0:1,1:0,"/>
+      <easing name="colorLine" value="0:16568319,1:7200511,"/>
+    </particle>
+  </emitter>
+  <emitter name="炸药包必杀粒子" id="8" interval="0.04" beginAngle="6.28" endAngle="3.5526857142857144" life="0">
+    <particle motionVSize="0" rotation="0" alphaOrient="1" colorOrient="0" lifeOrient="0.5" lifeSize="0" spinOrient="0" spinSize="0" keepOldFirst="false" sizeOrient="1" displayCreator="28" vOrient="169" endTime="1000" name="炸药包粒子2" weightOrient="7" blendMode="add" weightSize="-5" keepColor="false" vSize="0" beginTime="0" motionVOrient="0" countSize="0" sizeSize="0" lifeEasing="[object AbstractLifeEasing]" countOrient="1">
+      <easing name="vLine" value=""/>
+      <easing name="rvLine" value=""/>
+      <easing name="spLine" value=""/>
+      <easing name="sizeLine" value="0:1,1:0.6,"/>
+      <easing name="weightLine" value=""/>
+      <easing name="alphaLine" value="0:1,1:0,"/>
+      <easing name="colorLine" value="0:16568319,1:7200511,"/>
+    </particle>
+  </emitter>
+  <emitter name="石斧单1" id="9" interval="0.04" beginAngle="0" endAngle="6.28" life="0">
+    <particle motionVSize="0" rotation="0" alphaOrient="1" colorOrient="0" lifeOrient="0.2" lifeSize="0" spinOrient="0" spinSize="0" keepOldFirst="false" sizeOrient="1" displayCreator="29" vOrient="0" endTime="1000" name="石斧单130" weightOrient="0" blendMode="add" weightSize="0" keepColor="true" vSize="0" beginTime="0" motionVOrient="0" countSize="0" sizeSize="0" lifeEasing="[object AbstractLifeEasing]" countOrient="1">
+      <easing name="vLine" value=""/>
+      <easing name="rvLine" value=""/>
+      <easing name="spLine" value=""/>
+      <easing name="sizeLine" value=""/>
+      <easing name="weightLine" value=""/>
+      <easing name="alphaLine" value="0:0.3,1:0,"/>
+    </particle>
+  </emitter>
+  <emitter name="石斧单2" id="10" interval="0.04" beginAngle="0" endAngle="6.28" life="0">
+    <particle motionVSize="0" rotation="0" alphaOrient="1" colorOrient="0" lifeOrient="0.1" lifeSize="0" spinOrient="0" spinSize="0" keepOldFirst="false" sizeOrient="1" displayCreator="30" vOrient="0" endTime="1000" name="石斧单131" weightOrient="0" blendMode="add" weightSize="0" keepColor="true" vSize="0" beginTime="0" motionVOrient="0" countSize="0" sizeSize="0" lifeEasing="[object AbstractLifeEasing]" countOrient="1">
+      <easing name="vLine" value=""/>
+      <easing name="rvLine" value=""/>
+      <easing name="spLine" value=""/>
+      <easing name="sizeLine" value=""/>
+      <easing name="weightLine" value=""/>
+      <easing name="alphaLine" value="0:0.3,1:0,"/>
+    </particle>
+  </emitter>
+  <emitter name="石斧单3" id="11" interval="0.04" beginAngle="0" endAngle="6.28" life="0">
+    <particle motionVSize="0" rotation="0" alphaOrient="1" colorOrient="0" lifeOrient="0.1" lifeSize="0" spinOrient="0" spinSize="0" keepOldFirst="false" sizeOrient="1" displayCreator="31" vOrient="0" endTime="1000" name="石斧单132" weightOrient="0" blendMode="add" weightSize="0" keepColor="true" vSize="0" beginTime="0" motionVOrient="0" countSize="0" sizeSize="0" lifeEasing="[object AbstractLifeEasing]" countOrient="1">
+      <easing name="vLine" value=""/>
+      <easing name="rvLine" value=""/>
+      <easing name="spLine" value=""/>
+      <easing name="sizeLine" value="0:1,1:0.5,"/>
+      <easing name="weightLine" value=""/>
+      <easing name="alphaLine" value="0:0.5,1:0,"/>
+      <easing name="colorLine" value="0:1,1:0,"/>
+    </particle>
+  </emitter>
+  <emitter name="石斧必杀" id="12" interval="0.04" beginAngle="0" endAngle="6.28" life="0">
+    <particle motionVSize="0" rotation="0" alphaOrient="1" colorOrient="0" lifeOrient="0.1" lifeSize="0" spinOrient="0" spinSize="0" keepOldFirst="false" sizeOrient="1" displayCreator="32" vOrient="0" endTime="1000" name="石斧必杀33" weightOrient="0" blendMode="add" weightSize="0" keepColor="true" vSize="0" beginTime="0" motionVOrient="0" countSize="0" sizeSize="0" lifeEasing="[object AbstractLifeEasing]" countOrient="1">
+      <easing name="vLine" value=""/>
+      <easing name="rvLine" value=""/>
+      <easing name="spLine" value=""/>
+      <easing name="sizeLine" value="0:1,1:0.5,"/>
+      <easing name="weightLine" value=""/>
+      <easing name="alphaLine" value="0:0.5,1:0,"/>
+      <easing name="colorLine" value="0:1,1:0,"/>
+    </particle>
+  </emitter>
+  <emitter name="石斧必杀飞行" id="13" interval="0.04" beginAngle="0" endAngle="6.28" life="0">
+    <particle motionVSize="0" rotation="0" alphaOrient="1" colorOrient="0" lifeOrient="0.2" lifeSize="0" spinOrient="0" spinSize="0" keepOldFirst="false" sizeOrient="1" displayCreator="32" vOrient="0" endTime="1000" name="石斧必杀33" weightOrient="0" blendMode="add" weightSize="0" keepColor="true" vSize="0" beginTime="0" motionVOrient="0" countSize="0" sizeSize="0" lifeEasing="[object AbstractLifeEasing]" countOrient="1">
+      <easing name="vLine" value=""/>
+      <easing name="rvLine" value=""/>
+      <easing name="spLine" value=""/>
+      <easing name="sizeLine" value="0:1,1:0.5,"/>
+      <easing name="weightLine" value=""/>
+      <easing name="alphaLine" value="0:0.5,1:0,"/>
+    </particle>
+    <particle motionVSize="36" rotation="0" alphaOrient="1" colorOrient="0" lifeOrient="0.4" lifeSize="0" spinOrient="48" spinSize="-51" keepOldFirst="false" sizeOrient="1" displayCreator="33" vOrient="57" endTime="1000" name="石斧必杀飞行34" weightOrient="0" blendMode="add" weightSize="0" keepColor="true" vSize="0" beginTime="0" motionVOrient="15" countSize="0" sizeSize="0.2" lifeEasing="[object AbstractLifeEasing]" countOrient="1">
+      <easing name="vLine" value=""/>
+      <easing name="rvLine" value=""/>
+      <easing name="spLine" value=""/>
+      <easing name="sizeLine" value="0:1,1:0.5,"/>
+      <easing name="weightLine" value=""/>
+      <easing name="alphaLine" value="0:0.5,1:0,"/>
+      <easing name="colorLine" value="0:1,1:0,"/>
+    </particle>
+  </emitter>
+  <emitter name="弓单发飞行" id="14" interval="0.1" beginAngle="0" endAngle="6.28" life="0">
+    <particle motionVSize="0" rotation="0" alphaOrient="1" colorOrient="16777215" lifeOrient="0.3" lifeSize="0" spinOrient="0" spinSize="0" keepOldFirst="false" sizeOrient="1" displayCreator="28" vOrient="0" endTime="1000" name="弓单飞行" weightOrient="0" blendMode="add" weightSize="0" keepColor="true" vSize="0" beginTime="0" motionVOrient="0" countSize="0" sizeSize="0" lifeEasing="[object AbstractLifeEasing]" countOrient="1">
+      <easing name="vLine" value=""/>
+      <easing name="rvLine" value=""/>
+      <easing name="spLine" value=""/>
+      <easing name="sizeLine" value=""/>
+      <easing name="weightLine" value=""/>
+      <easing name="alphaLine" value="0:0.9,1:0,"/>
+    </particle>
+  </emitter>
+  <emitter name="弓必杀飞行" id="15" interval="0.04" beginAngle="0" endAngle="6.28" life="0">
+    <particle motionVSize="0" rotation="0" alphaOrient="1" colorOrient="39423" lifeOrient="0.7" lifeSize="0" spinOrient="0" spinSize="0" keepOldFirst="false" sizeOrient="1.2" displayCreator="34" vOrient="0" endTime="1000" name="弓必杀飞行35" weightOrient="0" blendMode="add" weightSize="0" keepColor="true" vSize="0" beginTime="0" motionVOrient="24" countSize="0" sizeSize="0" lifeEasing="[object AbstractLifeEasing]" countOrient="1">
+      <easing name="vLine" value=""/>
+      <easing name="rvLine" value=""/>
+      <easing name="spLine" value=""/>
+      <easing name="sizeLine" value=""/>
+      <easing name="weightLine" value=""/>
+      <easing name="alphaLine" value="0:0.9,1:0,"/>
+    </particle>
+    <particle motionVSize="41" rotation="0" alphaOrient="1" colorOrient="16777215" lifeOrient="0.4" lifeSize="0" spinOrient="0" spinSize="0" keepOldFirst="false" sizeOrient="1" displayCreator="28" vOrient="68" endTime="1000" name="弓必杀飞行33" weightOrient="0" blendMode="add" weightSize="0" keepColor="false" vSize="0" beginTime="0" motionVOrient="34" countSize="0" sizeSize="0" lifeEasing="[object AbstractLifeEasing]" countOrient="1">
+      <easing name="vLine" value=""/>
+      <easing name="rvLine" value=""/>
+      <easing name="spLine" value=""/>
+      <easing name="sizeLine" value=""/>
+      <easing name="weightLine" value=""/>
+      <easing name="alphaLine" value="0:0.9,1:0,"/>
+    </particle>
+  </emitter>
+  <emitter name="电击棒必杀飞行16" id="16" interval="0.04" beginAngle="0" endAngle="6.28" life="0">
+    <particle motionVSize="0" rotation="0" alphaOrient="1" colorOrient="13369497" lifeOrient="0.4" lifeSize="0" spinOrient="0" spinSize="0" keepOldFirst="false" sizeOrient="1" displayCreator="27" vOrient="0" endTime="1000" name="电击棒rr" weightOrient="0" blendMode="add" weightSize="0" keepColor="false" vSize="0" beginTime="0" motionVOrient="0" countSize="0" sizeSize="0" lifeEasing="[object AbstractLifeEasing]" countOrient="1">
+      <easing name="vLine" value=""/>
+      <easing name="rvLine" value=""/>
+      <easing name="spLine" value=""/>
+      <easing name="sizeLine" value="0:1.2,1:0.8,"/>
+      <easing name="weightLine" value=""/>
+      <easing name="alphaLine" value="0:0.7,1:0,"/>
+    </particle>
+  </emitter>
+  <emitter name="枪单发飞行17" id="17" interval="0.1" beginAngle="0" endAngle="6.28" life="0">
+    <particle motionVSize="0" rotation="0" alphaOrient="1" colorOrient="0" lifeOrient="0.5" lifeSize="0" spinOrient="0" spinSize="0" keepOldFirst="false" sizeOrient="1" displayCreator="35" vOrient="30" endTime="1000" name="枪单" weightOrient="0" blendMode="add" weightSize="0" keepColor="true" vSize="0" beginTime="0" motionVOrient="0" countSize="0" sizeSize="0" lifeEasing="[object AbstractLifeEasing]" countOrient="1">
+      <easing name="vLine" value=""/>
+      <easing name="rvLine" value=""/>
+      <easing name="spLine" value=""/>
+      <easing name="sizeLine" value="0:1,1:1.3,"/>
+      <easing name="weightLine" value=""/>
+      <easing name="alphaLine" value="0:0.8,1:0,"/>
+    </particle>
+  </emitter>
+  <emitter name="枪必杀飞行18" id="18" interval="0.04" beginAngle="0" endAngle="6.28" life="0">
+    <particle motionVSize="0" rotation="0" alphaOrient="1" colorOrient="0" lifeOrient="0.5" lifeSize="0" spinOrient="0" spinSize="0" keepOldFirst="false" sizeOrient="1" displayCreator="36" vOrient="0" endTime="1000" name="枪必杀" weightOrient="0" blendMode="add" weightSize="0" keepColor="true" vSize="0" beginTime="0" motionVOrient="0" countSize="0" sizeSize="0" lifeEasing="[object AbstractLifeEasing]" countOrient="1">
+      <easing name="vLine" value=""/>
+      <easing name="rvLine" value=""/>
+      <easing name="spLine" value=""/>
+      <easing name="sizeLine" value=""/>
+      <easing name="weightLine" value=""/>
+      <easing name="alphaLine" value="0:0.7,1:0,"/>
+    </particle>
+  </emitter>
+  <emitter name="emitter" id="0" interval="0.04" beginAngle="0" endAngle="6.283185307179586" life="1"/>
+</list>

@@ -1,0 +1,21 @@
+﻿<Result value="true" message="Success!" webPath="image/" edition="6" editor="第七大道" nextDate="20110207" soundName="201101301025061406.flv">
+  <item type="small" path="201103010285762.swf" targetCategory="0" targetPage="0" />
+  <item type="small" path="2011030102859546.swf" targetCategory="1" targetPage="2" />
+  <item type="small" path="201103010292265.swf" targetCategory="0" targetPage="1" />
+  <item type="big" path="201103010295731.jpg" targetCategory="1" targetPage="0" />
+  <item type="big" path="201103010300875.jpg" targetCategory="1" targetPage="1" />
+  <item type="big" path="201103010304750.jpg" targetCategory="1" targetPage="3" />
+  <item type="big" path="201103010307875.jpg" targetCategory="2" targetPage="0" />
+  <item type="big" path="2011030103010875.jpg" targetCategory="3" targetPage="0" />
+  <item type="category0" path="201103010298984.jpg" targetCategory="0" targetPage="0" />
+  <item type="category0" path="2011030102912796.jpg" targetCategory="0" targetPage="0" />
+  <item type="category1" path="2011030102924390.swf" targetCategory="0" targetPage="0" />
+  <item type="category1" path="2011030102927234.jpg" targetCategory="0" targetPage="0" />
+  <item type="category1" path="2011030102930468.jpg" targetCategory="0" targetPage="0" />
+  <item type="category1" path="2011030102933468.jpg" targetCategory="0" targetPage="0" />
+  <item type="category1" path="2011030102936515.jpg" targetCategory="0" targetPage="0" />
+  <item type="category2" path="2011030102941750.jpg" targetCategory="0" targetPage="0" />
+  <item type="category2" path="2011030102944671.jpg" targetCategory="0" targetPage="0" />
+  <item type="category3" path="2011030102949187.jpg" targetCategory="0" targetPage="0" />
+  <item type="category3" path="2011030102952187.jpg" targetCategory="0" targetPage="0" />
+</Result>

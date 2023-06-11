@@ -1,0 +1,4 @@
+﻿<flash_project name="~1126object" version="1">
+	<project_file path="./~1126object.fla" filetype="fla" profile="" def_file="true"/>
+	<project_file path="./game/assetmap/Flame.as" filetype="as"/>
+</flash_project>

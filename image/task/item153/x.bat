@@ -1,0 +1,1 @@
+"C:\Program Files\WinRAR\rar.exe" a -ep1 -r "C:\DDTank 6.6\resource\image\task\item153\test" "C:\Users\Administrator\Desktop\tool converter xml\"

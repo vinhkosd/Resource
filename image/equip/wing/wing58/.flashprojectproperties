@@ -1,0 +1,22 @@
+<projectDescription>
+	<id>1238637846607</id>
+	<name>wings</name>
+	<asVersion>0</asVersion>
+	<boundTemplate>file:///C|/Documents and Settings/Administrator/Local Settings/Application Data/Adobe/Flash CS4/en/Configuration/Project/templates/boundClass_as3.as</boundTemplate>
+	<classTemplate>file:///C|/Documents and Settings/Administrator/Local Settings/Application Data/Adobe/Flash CS4/en/Configuration/Project/templates/standardClass_as3.as</classTemplate>
+	<classPath>.</classPath>
+	<defaultApp/>
+	<rootURI>C:\ddt\Resource\image\equip\wing\wing58</rootURI>
+	<flexSDK/>
+	<sources editable="false"/>
+	<libraries editable="false"/>
+	<externalLibraries editable="false"/>
+	<compileList editable="false">
+		<uri label="wings.fla">file:///C|/ddt/Resource/image/equip/wing/wing58/wings.fla</uri>
+	</compileList>
+	<recentFiles editable="false">
+		<uri label="wing_game_15058.as">file:///C|/ddt/Resource/image/equip/wing/wing58/wing_game_15058.as</uri>
+		<uri label="wing_show_15058.as">file:///C|/ddt/Resource/image/equip/wing/wing58/wing_show_15058.as</uri>
+	</recentFiles>
+	<locations editable="false"/>
+</projectDescription>
