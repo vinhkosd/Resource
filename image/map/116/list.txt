@@ -1,5 +1,0 @@
-E:\Source\Flash\ResourceII\image\map\116\icon.png
-E:\Source\Flash\ResourceII\image\map\116\list.txt
-E:\Source\Flash\ResourceII\image\map\116\samll_map.png
-E:\Source\Flash\ResourceII\image\map\116\show1.jpg
-E:\Source\Flash\ResourceII\image\map\116\ShowList.bat
