@@ -1,7 +1,0 @@
-﻿<flash_project name="~1076MapAsset" version="1">
-	<project_file path="./~1076MapAsset.fla" filetype="fla" profile="" def_file="true"/>
-	<project_file path="./_1076MapAsset_fla/s2_2.as" filetype="as"/>
-	<project_file path="./com/mapobject/asset/WaveAsset_01_left.as" filetype="as"/>
-	<project_file path="./com/mapobject/asset/WaveAsset_01_right.as" filetype="as"/>
-	<project_file path="./com/mapobject/asset/wordtip75.as" filetype="as"/>
-</flash_project>
